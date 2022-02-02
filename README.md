@@ -1,6 +1,6 @@
 # Few-Task Meta Learning.
 
-This repository contains the code used for task selectin for "Few-Task Meta Learning". The script shown is a generic template to work for any domain defined following the standard Open AI gym template. For training the individual tasks and the meta-RL agents and testing the agents [garage](https://github.com/rlworkgroup/garage) was used.
+This repository contains the code used for task selectin for "Few-Task Meta Learning". The script shown is a generic template to work for any domain defined following the standard Open AI gym template. For training the individual tasks and the meta-RL agents, as well as testing the agents [garage](https://github.com/rlworkgroup/garage) was used.
 
 ### Dependencies
 Our code requires:
